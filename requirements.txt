@@ -1,0 +1,22 @@
+# Backend core
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+pydantic
+
+# Data handling
+pandas
+numpy
+
+# Geospatial
+shapely
+folium
+streamlit-folium
+
+# Frontend 
+streamlit
+
+# ML
+scikit-learn
+joblib
